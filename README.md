@@ -1,8 +1,6 @@
 # ASC-Portfolio-
 
 # Technical Portfolio – Control & Embedded Systems / Software Engineering
-Name: Heidi  
-Contact: [Your Email] | [Your Phone] | [GitHub Profile Link]
 
 ---
 
