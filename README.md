@@ -16,17 +16,9 @@
 
 ---
 
-## 2. Computer Vision Pipeline & Image Processing
-- Focus: Computer Vision, Automation
-- Description: made Python processing scripts using OpenCV to extract geometric features and detect environmental changes.
-- Key Technical Features:
-  * Object Classification: Designed HSV color masking, contour extraction, and shape identification algorithms.
-  * Delta Analysis: Processed image sets to isolate structural changes and growth/bleaching metrics over time.
-- Tools & Tech: Python, OpenCV, NumPy, Image Processing Pipelines.
 
----
 
-## 3. Multi-Board I2C Sensor & Actuator Network
+## 2. Multi-Board I2C Sensor & Actuator Network
 - Focus: Hardware Interfacing, Embedded Protocols
 - Description: Designed and simulated an integrated I2C master-slave system for multi-node sensor control.
 - Key Technical Features:
